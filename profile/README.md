@@ -4,9 +4,9 @@
 
 </div>
 
-![libft](badges/libfte.png)
-![ft_printfe](badges/ft_printfe.png)
-![born2beroot](badges/born2beroote.png)
-![get_next_linee](badges/get_next_linee.png)
-![minitalk](badges/minitalke.png)
-![so_long](badges/so_longe.png)
+[<img src="../badges/libfte.png"/>](https://github.com/enzodeg42/libft)
+[<img src="../badges/ft_printfe.png"/>](https://github.com/enzodeg42/ft_printf)
+[<img src="../badges/born2beroote.png"/>](https://github.com/enzodeg42/born2beroot)
+[<img src="../badges/get_next_linee.png"/>](https://github.com/enzodeg42/get_next_line)
+[<img src="../badges/minitalke.png"/>](https://github.com/enzodeg42/minitalk)
+[<img src="../badges/so_longe.png"/>](https://github.com/enzodeg42/so_long)
