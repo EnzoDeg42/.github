@@ -4,10 +4,13 @@
 
 </div>
 
-[<img src="badges/libfte.png"/>](https://github.com/enzodeg42/libft)
-[<img src="badges/ft_printfe.png"/>](https://github.com/enzodeg42/ft_printf)
-[<img src="badges/born2beroote.png"/>](https://github.com/enzodeg42/born2beroot)
-[<img src="badges/get_next_linee.png"/>](https://github.com/enzodeg42/get_next_line)
-[<img src="badges/minitalke.png"/>](https://github.com/enzodeg42/minitalk)
-[<img src="badges/so_longe.png"/>](https://github.com/enzodeg42/so_long)
-[<img src="badges/push_swape.png"/>](https://github.com/enzodeg42/push_swap)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/libfte.png"/>](https://github.com/enzodeg42/libft)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/ft_printfe.png"/>](https://github.com/enzodeg42/ft_printf)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/born2beroote.png"/>](https://github.com/enzodeg42/born2beroot)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/get_next_linee.png"/>](https://github.com/enzodeg42/get_next_line)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/minitalke.png"/>](https://github.com/enzodeg42/minitalk)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/so_longe.png"/>](https://github.com/enzodeg42/so_long)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/push_swape.png"/>](https://github.com/enzodeg42/push_swap)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/minishelle.png"/>](https://github.com/enzodeg42/minishell)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/philosopherse.png"/>](https://github.com/enzodeg42/philosophers)
+[<img src="https://github.com/EnzoDeg42/.github/blob/main/badges/cub3de.png"/>](https://github.com/enzodeg42/cub3d)
